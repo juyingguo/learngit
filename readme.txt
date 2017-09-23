@@ -7,3 +7,4 @@ Git is free software.
 05 build house02
 06 Git has a mutable index called stage.2017/09/23
 07 Git tracks changes files
+07 Git tracks changes
