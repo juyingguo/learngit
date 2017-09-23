@@ -10,4 +10,4 @@ Git is free software.
 07 Git tracks 
 08 我在打boss
 09 Creating a new branch is quick.
-10 Creating a new branch is quick & simple.
+10 Creating a new branch is quick AND simple.
