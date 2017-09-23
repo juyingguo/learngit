@@ -5,3 +5,4 @@ Git is free software.
 04 test a+ b;
 05 build house01
 05 build house02
+06 Git has a mutable index called stage.2017/09/23
